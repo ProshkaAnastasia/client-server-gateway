@@ -1,0 +1,1 @@
+/Users/anastasiapronina/KotlinProjects/Lab7-8/build/classes/kotlin/main/MainKt.class
